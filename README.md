@@ -51,9 +51,8 @@ AIFFEL_quest_cr
 │   └── Ex09
 │       ├── .ipynb
 │       └── README.md
-├── GoingDeeper
-    └── Go01
-        ├── .ipynb
-        └── README.md
+└── GoingDeeper
+    ├── .ipynb
+    └── README.md
 
 ~~~
