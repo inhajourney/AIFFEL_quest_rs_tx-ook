@@ -52,7 +52,31 @@ AIFFEL_quest_cr
 │       ├── .ipynb
 │       └── README.md
 └── GoingDeeper
-    ├── .ipynb
-    └── README.md
-
+    ├── Deeper01
+    │   ├── .ipynb
+    │   └── README.md
+    ├── Deeper02
+    │   ├── .ipynb
+    │   └── README.md
+    ├── Deeper03
+    │   ├── .ipynb
+    │   └── README.md
+    ├── Deeper04
+    │   ├── .ipynb
+    │   └── README.md
+    ├── Deeper05
+    │   ├── .ipynb
+    │   └── README.md
+    ├── Deeper06
+    │   ├── .ipynb
+    │   └── README.md
+    ├── Deeper07
+    │   ├── .ipynb
+    │   └── README.md
+    ├── Deeper08
+    │   ├── .ipynb
+    │   └── README.md
+    └── Deeper019
+        ├── .ipynb
+        └── README.md
 ~~~
